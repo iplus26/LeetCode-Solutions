@@ -4,5 +4,6 @@ This is my version of LeetCode solutions.
 
 | # | Title | C | C++ | JavaScript |
 |:-:|:----- |:-:| :-: |:----------:|
-|235|Lowest Common Ancestor of a Binary Search Tree| X | X | Finished |
-|233|Number of Digit One| X | X | Finished |
+|235| Lowest Common Ancestor of a Binary Search Tree| X | X | Finished |
+|233| Number of Digit One| X | X | Finished |
+|231| Power of Two | X | X | Finished |
