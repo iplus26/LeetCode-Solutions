@@ -13,5 +13,6 @@ This is my version of LeetCode solutions.
 |219| 😄 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) ||| 124 ms |
 |217| 😄 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ||| 	140 ms |
 | 83| 😄 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) ||| 160 ms |
+| 21| 😄 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|||176 ms|
 
 (😄 for 'Easy', 😎 for 'Medium', 😈 for 'Difficult')
