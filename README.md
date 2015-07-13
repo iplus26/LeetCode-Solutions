@@ -8,6 +8,9 @@ This is my version of LeetCode solutions.
 |233| 😎 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)||| 136 ms |
 |231| 😄 | [Power of Two](https://leetcode.com/problems/power-of-two/) ||| 204 ms |
 |226| 😄 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ||| 132 ms |
+|225| 😄 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) ||| 152 ms|
 |223| 😄 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) ||| 320 ms|
+|219| 😄 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) ||| 124 ms |
+|217| 😄 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ||| 	140 ms |
 
 (😄 for 'Easy', 😎 for 'Medium', 😈 for 'Difficult')
