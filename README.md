@@ -1,4 +1,6 @@
-This is my version of LeetCode solutions. 
+This is my version of LeetCode solutions.
+
+**75** / 236 questions solved.
 
 [Me on LeetCode](https://leetcode.com/discuss/user/iplus26)
 
