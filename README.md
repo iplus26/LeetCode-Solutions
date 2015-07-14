@@ -43,10 +43,22 @@ This is my version of LeetCode solutions.
 |···
 |169| 😄 | [Majority Element](https://leetcode.com/problems/majority-element/) | 10ms
 |168| 😄 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) || 1ms|
+|···
 |160| 😄 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ||| 172 ms|
+|···
 |155| 😄 | [Min Stack](https://leetcode.com/problems/min-stack/) ||| 156 ms |
+|···
 |129| 😎 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|||124 ms|
+|···
+|107| 😄 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) ||| 152 ms|
+|···
+|104| 😄 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 7 ms |||
+|103| 😎 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+|102| 😄 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) ||| 140 ms |
+|···
 | 83| 😄 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) ||| 160 ms |
+|···
 | 21| 😄 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|||176 ms|
+|···
 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Difficult*)
