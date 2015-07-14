@@ -14,6 +14,7 @@ This is my version of LeetCode solutions.
 |217| 😄 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ||| 	140 ms |
 |206| 😄 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) ||| 140 ms |
 |203| 😄 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) ||| 176 ms |
+|160| 😄 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ||| 172 ms|
 |129| 😎 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|||124 ms|
 | 83| 😄 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) ||| 160 ms |
 | 21| 😄 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|||176 ms|
