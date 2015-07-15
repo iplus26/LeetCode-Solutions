@@ -13,7 +13,7 @@
 var deleteNode = function(node) {
     var prev = node;
 
-    while (node.next != null) {
+    while (node.next !== null) {
         node.val = node.next.val;
         prev = node;
         node = node.next;

@@ -1,6 +1,6 @@
 This is my version of LeetCode solutions.
 
-**75** / 236 questions solved.
+**85** / 237 questions solved.
 
 [Me on LeetCode](https://leetcode.com/discuss/user/iplus26)
 
@@ -52,6 +52,9 @@ This is my version of LeetCode solutions.
 |···
 |155| 😄 | [Min Stack](https://leetcode.com/problems/min-stack/) ||| 156 ms |
 |···
+|145| 😈 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) ||| 176 ms|
+|144| 😎 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) ||| 140 ms|
+|···
 |129| 😎 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|||124 ms|
 |···
 |107| 😄 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) ||| 152 ms|
@@ -59,6 +62,8 @@ This is my version of LeetCode solutions.
 |104| 😄 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 7 ms |||
 |103| 😎 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 |102| 😄 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) ||| 140 ms |
+|···
+| 94| 😎 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) ||| 136 ms |
 |···
 | 83| 😄 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) ||| 160 ms |
 |···
