@@ -22,6 +22,7 @@ This is my version of LeetCode solutions.
 |225| 😄 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) ||| 152 ms|
 |···
 |223| 😄 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) ||| 320 ms|
+|222| 😎 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) ||| 328 ms |
 |···
 |219| 😄 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) ||| 124 ms |
 |···
