@@ -1,6 +1,6 @@
 This is my version of LeetCode solutions.
 
-**85** / 237 questions solved.
+**89** / 237 questions solved.
 
 [Me on LeetCode](https://leetcode.com/discuss/user/iplus26)
 
@@ -54,6 +54,8 @@ This is my version of LeetCode solutions.
 |···
 |155| 😄 | [Min Stack](https://leetcode.com/problems/min-stack/) ||| 156 ms |
 |···
+|153| 😎 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) ||| 144 ms|
+|···
 |145| 😈 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) ||| 176 ms|
 |144| 😎 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) ||| 140 ms|
 |···
@@ -71,6 +73,7 @@ This is my version of LeetCode solutions.
 |···
 | 38| 😄 | [Count and Say](https://leetcode.com/problems/count-and-say/) ||| 120 ms |
 |···
+| 22| 😎 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) ||| 124 ms|
 | 21| 😄 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|||176 ms|
 | 20| 😄 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ||| 124 ms |
 | 19| 😄 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ||| 160 ms |
