@@ -63,24 +63,26 @@ This is my version of LeetCode solutions.
 |···
 |129| 😎 | [Sum Root to Leaf Numbers][42]|||124 ms|
 |···
-|107| 😄 | [Binary Tree Level Order Traversal II][43] ||| 152 ms|
+|116| 😎 | [Populating Next Right Pointers in Each Node][43] ||| 180 ms|
 |···
-|104| 😄 | [Maximum Depth of Binary Tree][44] | 7 ms |||
-|103| 😎 | [Binary Tree Zigzag Level Order Traversal][45]
-|102| 😄 | [Binary Tree Level Order Traversal][46] ||| 140 ms |
+|107| 😄 | [Binary Tree Level Order Traversal II][44] ||| 152 ms|
 |···
-| 94| 😎 | [Binary Tree Inorder Traversal][47] ||| 136 ms |
+|104| 😄 | [Maximum Depth of Binary Tree][45] | 7 ms |||
+|103| 😎 | [Binary Tree Zigzag Level Order Traversal][46]
+|102| 😄 | [Binary Tree Level Order Traversal][47] ||| 140 ms |
 |···
-| 83| 😄 | [Remove Duplicates from Sorted List][48] ||| 160 ms |
+| 94| 😎 | [Binary Tree Inorder Traversal][48] ||| 136 ms |
 |···
-| 38| 😄 | [Count and Say][49] ||| 120 ms |
+| 83| 😄 | [Remove Duplicates from Sorted List][49] ||| 160 ms |
 |···
-| 22| 😎 | [Generate Parentheses][50] ||| 124 ms|
-| 21| 😄 | [Merge Two Sorted Lists][51]|||176 ms|
-| 20| 😄 | [Valid Parentheses][52] ||| 124 ms |
-| 19| 😄 | [Remove Nth Node From End of List][53] ||| 160 ms |
+| 38| 😄 | [Count and Say][50] ||| 120 ms |
 |···
-| 14| 😄 | [Longest Common Prefix][54] ||| 136 ms |
+| 22| 😎 | [Generate Parentheses][51] ||| 124 ms|
+| 21| 😄 | [Merge Two Sorted Lists][52]|||176 ms|
+| 20| 😄 | [Valid Parentheses][53] ||| 124 ms |
+| 19| 😄 | [Remove Nth Node From End of List][54] ||| 160 ms |
+|···
+| 14| 😄 | [Longest Common Prefix][55] ||| 136 ms |
 |···
 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Difficult*)
@@ -127,15 +129,16 @@ This is my version of LeetCode solutions.
 [40]:	https://leetcode.com/problems/binary-tree-postorder-traversal/
 [41]:	https://leetcode.com/problems/binary-tree-preorder-traversal/
 [42]:	https://leetcode.com/problems/sum-root-to-leaf-numbers/
-[43]:	https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
-[44]:	https://leetcode.com/problems/maximum-depth-of-binary-tree/
-[45]:	https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
-[46]:	https://leetcode.com/problems/binary-tree-level-order-traversal/
-[47]:	https://leetcode.com/problems/binary-tree-inorder-traversal/
-[48]:	https://leetcode.com/problems/remove-duplicates-from-sorted-list/
-[49]:	https://leetcode.com/problems/count-and-say/
-[50]:	https://leetcode.com/problems/generate-parentheses/
-[51]:	https://leetcode.com/problems/merge-two-sorted-lists/
-[52]:	https://leetcode.com/problems/valid-parentheses/
-[53]:	https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-[54]:	https://leetcode.com/problems/longest-common-prefix/
+[43]:	https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+[44]:	https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+[45]:	https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[46]:	https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+[47]:	https://leetcode.com/problems/binary-tree-level-order-traversal/
+[48]:	https://leetcode.com/problems/binary-tree-inorder-traversal/
+[49]:	https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+[50]:	https://leetcode.com/problems/count-and-say/
+[51]:	https://leetcode.com/problems/generate-parentheses/
+[52]:	https://leetcode.com/problems/merge-two-sorted-lists/
+[53]:	https://leetcode.com/problems/valid-parentheses/
+[54]:	https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+[55]:	https://leetcode.com/problems/longest-common-prefix/

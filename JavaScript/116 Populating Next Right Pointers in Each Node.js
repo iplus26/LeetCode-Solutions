@@ -18,9 +18,9 @@ var connect = function(root) {
 
     var cur = null;
 
-    while (root.left !== null) {
+    while (root.left) {
         cur = root;
-        while (cur !== null) {
+        while (cur) {
             cur.left.next = cur.right;
             while (cur.next !== null) {
                 cur.right.next = cur.next.left;
@@ -31,6 +31,3 @@ var connect = function(root) {
     }
 
 };
-
-
-// Time Limit Exceeded. 
