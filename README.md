@@ -1,11 +1,14 @@
 This is my version of LeetCode solutions.
 
 **93** / 332 questions solved.
+(😄 for *Easy*, 😎 for *Medium*, 😈 for *Difficult*)
 
 [Me on LeetCode][1]
 
 | # | Difficulty | Title | C | C++ | JavaScript |
 |:-:|:----------:|:----- |:-:| :-: |:----------:|
+|303| 😄 | Range Sum Query - Immutable ||| 124 ms |
+|···
 |278| 😄 | [First Bad Version][2] ||| 148 ms|
 |···
 |238| 😎 | [Product of Array Except Self][3] ||| 212 ms|
@@ -84,8 +87,6 @@ This is my version of LeetCode solutions.
 |···
 | 14| 😄 | [Longest Common Prefix][55] ||| 136 ms |
 |···
-
-(😄 for *Easy*, 😎 for *Medium*, 😈 for *Difficult*)
 
 [1]:	https://leetcode.com/discuss/user/iplus26
 [2]:	https://leetcode.com/problems/first-bad-version/ "First Bad Version"
