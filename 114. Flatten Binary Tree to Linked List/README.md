@@ -4,7 +4,7 @@ Check out [https://leetcode.com/problems/flatten-binary-tree-to-linked-list/][1]
 
 ## Solution
 
-看了 Hints (If you notice carefully in the flattened tree, each node's right child points to the next node of a pre-order traversal) 之后就很简单了，就是一个先序遍历，然后把节点连一下。
+看了 **Hints** (If you notice carefully in the flattened tree, each node's right child points to the next node of a pre-order traversal) 之后就很简单了，就是一个先序遍历，然后把节点连一下。
 
 使用 JavaScript 实现这道题需要熟悉的是引用类型的使用。
 
