@@ -1,0 +1,25 @@
+{
+  "name": "leetcode-solutions",
+  "version": "1.0.0",
+  "description": "This is my version of LeetCode solutions.",
+  "dependencies": {},
+  "devDependencies": {
+    "bluebird": "^3.4.0",
+    "cheerio": "^0.20.0",
+    "request-promise": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node build/update.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iplus26/LeetCode-Solutions.git"
+  },
+  "author": "Ivan Jiang",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/iplus26/LeetCode-Solutions/issues"
+  },
+  "homepage": "https://github.com/iplus26/LeetCode-Solutions#readme"
+}
