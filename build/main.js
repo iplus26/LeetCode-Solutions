@@ -6,7 +6,8 @@ var Promise = require('bluebird'),
   cheerio = require('cheerio'),
 
   crawlAsync = require('./crawl').crawlAsync,
-  writeAsync = require('./updateReadme').writeAsync;
+  writeAsync = require('./updateReadme').writeAsync,
+  walkAsync = require('./solutions').walkAsync;
 
 const LEETCODE_ORIGIN = 'https://leetcode.com';
 
@@ -20,7 +21,7 @@ var getLeetCode = function getLeetCode(count) {
       var $ = cheerio.load(html),
         $problem = $('table#problemList tr');
 
-        console.log('Got ' + ($problem.length - 1) + ' problems! ');
+      console.log('Got ' + ($problem.length - 1) + ' problems! ');
 
       var problems = [];
 
@@ -79,5 +80,13 @@ var getLeetCode = function getLeetCode(count) {
 getLeetCode().then(function(data) {
   console.log(data);
 
-  return writeAsync(data);
+  return walkAsync(data)
+  
+    .then(function() {
+
+      console.log('############# Walk #############', data);
+
+      return writeAsync(data);
+    });
+
 });
