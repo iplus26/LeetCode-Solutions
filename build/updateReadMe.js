@@ -61,7 +61,7 @@ var writeAsync = function(data) {
       str += ['',
         i,
         di[pr.diff], // difficulty
-        '[' + pr.title + '](' + pr.url + ')', // link
+        '[' + (pr.isLock ? '🔒'  : '') + pr.title + '](' + pr.url + ')', // link
         pr.lang.c ? '⭐️' : '', // c
         pr.lang.cpp ? '⭐️' : '', // cpp
         pr.lang.java ? '⭐️' : '', // java

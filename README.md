@@ -160,27 +160,27 @@ __57__ / 337 questions solved.
 |153|😎|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)||||⭐️|
 |154|😈|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|||||
 |155|😄|[Min Stack](https://leetcode.com/problems/min-stack/)|||||
-|156|😎|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|||||
-|157|😄|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)|||||
-|158|😈|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)|||||
-|159|😈|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|||||
+|156|😎|[🔒Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|||||
+|157|😄|[🔒Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)|||||
+|158|😈|[🔒Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)|||||
+|159|😈|[🔒Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|||||
 |160|😄|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|||||
-|161|😎|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|||||
+|161|😎|[🔒One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|||||
 |162|😎|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|||||
-|163|😎|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|||||
+|163|😎|[🔒Missing Ranges](https://leetcode.com/problems/missing-ranges/)|||||
 |164|😈|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|||||
 |165|😄|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|||||
 |166|😎|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|||||
-|167|😎|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|||||
+|167|😎|[🔒Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|||||
 |168|😄|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|||||
 |169|😄|[Majority Element](https://leetcode.com/problems/majority-element/)|||||
-|170|😄|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)|||||
+|170|😄|[🔒Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)|||||
 |171|😄|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|⭐️||||
 |172|😄|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|⭐️||||
 |173|😎|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|||||
 |174|😈|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|||||
 |179|😎|[Largest Number](https://leetcode.com/problems/largest-number/)||||⭐️|
-|186|😎|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)|||||
+|186|😎|[🔒Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)|||||
 |187|😎|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|||||
 |188|😈|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|||||
 |189|😄|[Rotate Array](https://leetcode.com/problems/rotate-array/)|⭐️||||
@@ -231,88 +231,88 @@ __57__ / 337 questions solved.
 |240|😎|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|||||
 |241|😎|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|||||
 |242|😄|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)||||⭐️|
-|243|😄|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|||||
-|244|😎|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|||||
-|245|😎|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|||||
-|246|😄|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)|||||
-|247|😎|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|||||
-|248|😈|[Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/)|||||
-|249|😄|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|||||
-|250|😎|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|||||
-|251|😎|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|||||
-|252|😄|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|||||
-|253|😎|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|||||
-|254|😎|[Factor Combinations](https://leetcode.com/problems/factor-combinations/)|||||
-|255|😎|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|||||
-|256|😎|[Paint House](https://leetcode.com/problems/paint-house/)|||||
+|243|😄|[🔒Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|||||
+|244|😎|[🔒Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|||||
+|245|😎|[🔒Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|||||
+|246|😄|[🔒Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)|||||
+|247|😎|[🔒Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|||||
+|248|😈|[🔒Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/)|||||
+|249|😄|[🔒Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|||||
+|250|😎|[🔒Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|||||
+|251|😎|[🔒Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|||||
+|252|😄|[🔒Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|||||
+|253|😎|[🔒Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|||||
+|254|😎|[🔒Factor Combinations](https://leetcode.com/problems/factor-combinations/)|||||
+|255|😎|[🔒Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|||||
+|256|😎|[🔒Paint House](https://leetcode.com/problems/paint-house/)|||||
 |257|😄|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|||||
 |258|😄|[Add Digits](https://leetcode.com/problems/add-digits/)||||⭐️|
-|259|😎|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|||||
+|259|😎|[🔒3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|||||
 |260|😎|[Single Number III](https://leetcode.com/problems/single-number-iii/)|||||
-|261|😎|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|||||
+|261|😎|[🔒Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|||||
 |263|😄|[Ugly Number](https://leetcode.com/problems/ugly-number/)||||⭐️|
 |264|😎|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|||||
-|265|😈|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|||||
-|266|😄|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|||||
-|267|😎|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|||||
+|265|😈|[🔒Paint House II](https://leetcode.com/problems/paint-house-ii/)|||||
+|266|😄|[🔒Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|||||
+|267|😎|[🔒Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|||||
 |268|😎|[Missing Number](https://leetcode.com/problems/missing-number/)||||⭐️|
-|269|😈|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|||||
-|270|😄|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|||||
-|271|😎|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|||||
-|272|😈|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)|||||
+|269|😈|[🔒Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|||||
+|270|😄|[🔒Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|||||
+|271|😎|[🔒Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|||||
+|272|😈|[🔒Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)|||||
 |273|😈|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|||||
 |274|😎|[H-Index](https://leetcode.com/problems/h-index/)|||||
 |275|😎|[H-Index II](https://leetcode.com/problems/h-index-ii/)|||||
-|276|😄|[Paint Fence](https://leetcode.com/problems/paint-fence/)|||||
-|277|😎|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|||||
+|276|😄|[🔒Paint Fence](https://leetcode.com/problems/paint-fence/)|||||
+|277|😎|[🔒Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|||||
 |278|😄|[First Bad Version](https://leetcode.com/problems/first-bad-version/)||||⭐️|
 |279|😎|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|||||
-|280|😎|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|||||
-|281|😎|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)|||||
+|280|😎|[🔒Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|||||
+|281|😎|[🔒Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)|||||
 |282|😈|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|||||
 |283|😄|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)||||⭐️|
 |284|😎|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|||||
-|285|😎|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|||||
-|286|😎|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|||||
+|285|😎|[🔒Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|||||
+|286|😎|[🔒Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|||||
 |287|😈|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|||||
-|288|😄|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)|||||
+|288|😄|[🔒Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)|||||
 |289|😎|[Game of Life](https://leetcode.com/problems/game-of-life/)|||||
 |290|😄|[Word Pattern](https://leetcode.com/problems/word-pattern/)|||||
-|291|😈|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)|||||
+|291|😈|[🔒Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)|||||
 |292|😄|[Nim Game](https://leetcode.com/problems/nim-game/)|||||
-|293|😄|[Flip Game](https://leetcode.com/problems/flip-game/)|||||
-|294|😎|[Flip Game II](https://leetcode.com/problems/flip-game-ii/)|||||
+|293|😄|[🔒Flip Game](https://leetcode.com/problems/flip-game/)|||||
+|294|😎|[🔒Flip Game II](https://leetcode.com/problems/flip-game-ii/)|||||
 |295|😈|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|||||
-|296|😈|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)|||||
+|296|😈|[🔒Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)|||||
 |297|😈|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|||||
-|298|😎|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|||||
+|298|😎|[🔒Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|||||
 |299|😄|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|||||
 |300|😎|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|||||
 |301|😈|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|||||
-|302|😈|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)|||||
+|302|😈|[🔒Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)|||||
 |303|😄|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)||||⭐️|
 |304|😎|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|||||
-|305|😈|[Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|||||
+|305|😈|[🔒Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|||||
 |306|😎|[Additive Number](https://leetcode.com/problems/additive-number/)|||||
 |307|😎|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|||||
-|308|😈|[Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)|||||
+|308|😈|[🔒Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)|||||
 |309|😎|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|||||
 |310|😎|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|||||
-|311|😎|[Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)|||||
+|311|😎|[🔒Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)|||||
 |312|😈|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|||||
 |313|😎|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|||||
-|314|😎|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|||||
+|314|😎|[🔒Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|||||
 |315|😈|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|||||
 |316|😈|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|||||
-|317|😈|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|||||
+|317|😈|[🔒Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|||||
 |318|😎|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|||||
 |319|😎|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|||||
-|320|😎|[Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/)|||||
+|320|😎|[🔒Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/)|||||
 |321|😈|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|||||
 |322|😎|[Coin Change](https://leetcode.com/problems/coin-change/)|||||
-|323|😎|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|||||
+|323|😎|[🔒Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|||||
 |324|😎|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|||||
-|325|😄|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|||||
+|325|😄|[🔒Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|||||
 |326|😄|[Power of Three](https://leetcode.com/problems/power-of-three/)||||⭐️|
 |327|😈|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|||||
 |328|😎|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)||||⭐️|
@@ -320,25 +320,25 @@ __57__ / 337 questions solved.
 |330|😎|[Patching Array](https://leetcode.com/problems/patching-array/)|||||
 |331|😎|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)||||⭐️|
 |332|😎|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|||||
-|333|😎|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|||||
+|333|😎|[🔒Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|||||
 |334|😎|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|||||
 |335|😈|[Self Crossing](https://leetcode.com/problems/self-crossing/)|||||
 |336|😈|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|||||
 |337|😎|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|||||
 |338|😎|[Counting Bits](https://leetcode.com/problems/counting-bits/)|||||
-|339|😄|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|||||
-|340|😈|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|||||
+|339|😄|[🔒Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|||||
+|340|😈|[🔒Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|||||
 |341|😎|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|||||
 |342|😄|[Power of Four](https://leetcode.com/problems/power-of-four/)|||||
 |343|😎|[Integer Break](https://leetcode.com/problems/integer-break/)|||||
 |344|😄|[Reverse String](https://leetcode.com/problems/reverse-string/)||||⭐️|
 |345|😄|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)||||⭐️|
-|346|😄|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|||||
+|346|😄|[🔒Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|||||
 |347|😎|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|||||
-|348|😎|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|||||
+|348|😎|[🔒Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|||||
 |349|😄|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|||||
 |350|😄|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|||||
-|351|😎|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|||||
+|351|😎|[🔒Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|||||
 |352|😈|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|||||
-|353|😎|[Design Snake Game](https://leetcode.com/problems/design-snake-game/)|||||
+|353|😎|[🔒Design Snake Game](https://leetcode.com/problems/design-snake-game/)|||||
 |354|😈|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|||||
