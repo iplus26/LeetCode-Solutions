@@ -1,6 +1,6 @@
 This is my version of LeetCode solutions. 
 
-__57__ / 337 questions solved. 
+__59__ / 337 questions solved. 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)
 
 | # | Difficulty | Title | C | C++ | Java| JavaScript |
@@ -336,8 +336,8 @@ __57__ / 337 questions solved.
 |346|😄|[🔒Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|||||
 |347|😎|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|||||
 |348|😎|[🔒Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|||||
-|349|😄|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|||||
-|350|😄|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|||||
+|349|😄|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)||||⭐️|
+|350|😄|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)||||⭐️|
 |351|😎|[🔒Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|||||
 |352|😈|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|||||
 |353|😎|[🔒Design Snake Game](https://leetcode.com/problems/design-snake-game/)|||||
