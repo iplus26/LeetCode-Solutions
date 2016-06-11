@@ -1,6 +1,6 @@
 This is my version of LeetCode solutions. 
 
-__59__ / 337 questions solved. 
+__60__ / 337 questions solved. 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)
 
 | # | Difficulty | Title | C | C++ | Java| JavaScript |
@@ -329,7 +329,7 @@ __59__ / 337 questions solved.
 |339|😄|[🔒Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|||||
 |340|😈|[🔒Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|||||
 |341|😎|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|||||
-|342|😄|[Power of Four](https://leetcode.com/problems/power-of-four/)|||||
+|342|😄|[Power of Four](https://leetcode.com/problems/power-of-four/)||||⭐️|
 |343|😎|[Integer Break](https://leetcode.com/problems/integer-break/)|||||
 |344|😄|[Reverse String](https://leetcode.com/problems/reverse-string/)||||⭐️|
 |345|😄|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)||||⭐️|
