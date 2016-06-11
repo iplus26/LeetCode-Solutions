@@ -1,6 +1,6 @@
 This is my version of LeetCode solutions. 
 
-__55__ / 337 questions solved. 
+__57__ / 337 questions solved. 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)
 
 | # | Difficulty | Title | C | C++ | Java| JavaScript |
@@ -331,8 +331,8 @@ __55__ / 337 questions solved.
 |341|😎|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|||||
 |342|😄|[Power of Four](https://leetcode.com/problems/power-of-four/)|||||
 |343|😎|[Integer Break](https://leetcode.com/problems/integer-break/)|||||
-|344|😄|[Reverse String](https://leetcode.com/problems/reverse-string/)|||||
-|345|😄|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|||||
+|344|😄|[Reverse String](https://leetcode.com/problems/reverse-string/)||||⭐️|
+|345|😄|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)||||⭐️|
 |346|😄|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|||||
 |347|😎|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|||||
 |348|😎|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|||||
