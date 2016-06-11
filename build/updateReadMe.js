@@ -44,8 +44,8 @@ var writeAsync = function(data) {
     '__{{count}}__ / ' + data.count + ' questions solved. \n' +
     '(😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)\n\n' +
 
-    '| # | Difficulty | Title | C | C++ | JavaScript |\n' +
-    '|:-:|:----------:|:----- |:-:| :-: |:----------:|\n';
+    '| # | Difficulty | Title | C | C++ | Java| JavaScript |\n' +
+    '|:-:|:----------:|:----- |:-:| :-: | :-: |:----------:|\n';
 
   var problems = data.problems;
 
@@ -53,7 +53,7 @@ var writeAsync = function(data) {
 
     // console.log('####### Problems', pr, Object.prototype.toString.call(pr.files));
 
-    if (langComplete(pr, ['c', 'cpp', 'js'])) {
+    if (langComplete(pr, ['c', 'cpp', 'js', 'java'])) {
       count++;
     }
 
@@ -64,6 +64,7 @@ var writeAsync = function(data) {
         '[' + pr.title + '](' + pr.url + ')', // link
         pr.lang.c ? '⭐️' : '', // c
         pr.lang.cpp ? '⭐️' : '', // cpp
+        pr.lang.java ? '⭐️' : '', // java
         pr.lang.js ? '⭐️' : '', // js
         ''].join('|') + '\n';
     }
