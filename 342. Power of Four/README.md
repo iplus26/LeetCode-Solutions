@@ -26,3 +26,19 @@
           return parseInt(prev) + parseInt(current);
         })) === 1;
     };
+
+和这道题相关的是 Power of Two 和 Power of Three (我发现前者我竟然是用正则来 match 的我也是醉了 xD) 目前见过的最正的解法应该是利用整数上限来解。(C 语言实现)
+
+    bool isPowerOfThree(int n) {
+      /*
+      pow(3,19) is the max int which is less than INT_MAX.
+      3^m % n == 0 which can be described by 3^m == n * k (exists such a number of k)
+
+      3 is a prime, which means that 3^m can be factored 3 * 3 * 3 *... * 3 (count of m), so n should be and can only be 3 * 3 * 3*...*3, which means that n is a pow of 3.
+
+      if we want to find a pow of 4, we can not use this method because 4 is not a prime.
+      4^m can be factored 2* 2 * 2 * ... * 2 (count of 2m), so n can be any one of 2*2*2*..*2(any count is ok).
+      */
+      return (n > 0) && ((int)(pow(3, 19)) % n == 0);
+    }
+
