@@ -1,9 +1,9 @@
 'use strict';
 
 var Promise = require('bluebird'),
-  fs = Promise.promisifyAll(require("fs")),
-  rp = require('request-promise'),
+  fs = Promise.promisifyAll(require('fs')),
   cheerio = require('cheerio'),
+  chalk = require('./myChalk'),
 
   crawlAsync = require('./crawl').crawlAsync,
   writeAsync = require('./updateReadme').writeAsync,
@@ -15,13 +15,11 @@ var getLeetCode = function getLeetCode(count) {
 
   count = count || 0;
 
-  return fs.readFileAsync('./leetcode.html', 'utf-8')
+  return fs.readFileAsync(__dirname + '/leetcode.html', 'utf-8')
     .then(function(html) {
 
       var $ = cheerio.load(html),
         $problem = $('table#problemList tr');
-
-      console.log('Got ' + ($problem.length - 1) + ' problems! ');
 
       var problems = [];
 
@@ -60,6 +58,9 @@ var getLeetCode = function getLeetCode(count) {
         problems[pr.index] = pr;
       });
 
+      console.log(chalk.info('Found') + ' ' + ($problem.length - 1) +
+        ' problems listed (build/leetcode.html) locally. ');
+
       return {
         count: $problem.length - 1,
         problems: problems
@@ -67,9 +68,9 @@ var getLeetCode = function getLeetCode(count) {
     })
     .catch(function(e) {
       // if file doesn't exist
-      console.log(e);
+      console.log(chalk.warning('Not found locally LeetCode OJ list! '));
 
-      console.log('Fetching the latest data from Internet... ');
+      console.log(chalk.info('Fetching') + ' the latest data from Internet... ');
       return crawlAsync().then(function() {
         return getLeetCode();
       });
@@ -77,16 +78,15 @@ var getLeetCode = function getLeetCode(count) {
 
 };
 
-getLeetCode().then(function(data) {
-  console.log(data);
+console.log(chalk.info('Welcome') + ' Building your version of LeetCode OJ solutions... ');
 
-  return walkAsync(data)
-  
-    .then(function() {
-
-      console.log('############# Walk #############', data);
-
+getLeetCode()
+  .then(function(data) {
+    // Walk through the local file list
+    return walkAsync(data).then(function() {
       return writeAsync(data);
     });
-
-});
+  })
+  .then(function() {
+    console.log(chalk.info('Use `git diff` to check out the updates. '));
+  });

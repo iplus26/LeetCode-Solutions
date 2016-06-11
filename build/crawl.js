@@ -19,9 +19,9 @@ var crawl = function crawl() {
 
       var $ = cheerio.load(html);
 
-      console.log('############### ' + ($('#problemList tr').length - 1) + ' ###############');
+      // console.log('############### ' + ($('#problemList tr').length - 1) + ' ###############');
 
-      return fs.writeFileAsync('./leetcode.html', $('#problemListRow').html());
+      return fs.writeFileAsync(__dirname + '/leetcode.html', $('#problemListRow').html());
     });
 };
 

@@ -6,7 +6,8 @@
 'use strict';
 
 var Promise = require('bluebird'),
-  fs = Promise.promisifyAll(require('fs'));
+  fs = Promise.promisifyAll(require('fs')),
+  chalk = require('./myChalk');
 
 /*
  * langComplete(problemObj, ['c', js']); ===> return true
@@ -40,7 +41,20 @@ var writeAsync = function(data) {
 
   var count = 0;
 
-  var str = 'This is my version of LeetCode solutions. \n\n' +
+  var str = '# Build Your Own Version\n\n' +
+    'I write a tool (check out the `build/` folder) to optimize the process. ' +
+    'It will __programmatically__: \n\n' +
+    '1. Fetch the problem list from LeetCode OJ and save in `build/leetcode.html`\n\n' +
+    '2. Check out the local solutions (Pls save the code as ' +
+    '`123. Some Problem/whatever-you-like.js`)\n\n' +
+    '3. Update the README file\n\n' + 
+
+    'Try it: Just clone the repo and run\n\n' + 
+    '    npm install && npm run build\n\n' + 
+    'Be free to contact to discuss about this simple tool. \n\n' + 
+
+    '# My Version\n\n' +
+    'This is my version of LeetCode solutions. \n\n' +
     '__{{count}}__ / ' + data.count + ' questions solved. \n' +
     '(😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)\n\n' +
 
@@ -50,9 +64,6 @@ var writeAsync = function(data) {
   var problems = data.problems;
 
   problems.forEach(function(pr, i) {
-
-    // console.log('####### Problems', pr, Object.prototype.toString.call(pr.files));
-
     if (langComplete(pr, ['c', 'cpp', 'js', 'java'])) {
       count++;
     }
@@ -61,7 +72,7 @@ var writeAsync = function(data) {
       str += ['',
         i,
         di[pr.diff], // difficulty
-        '[' + (pr.isLock ? '🔒'  : '') + pr.title + '](' + pr.url + ')', // link
+        '[' + (pr.isLock ? '🔒' : '') + pr.title + '](' + pr.url + ')', // link
         pr.lang.c ? '⭐️' : '', // c
         pr.lang.cpp ? '⭐️' : '', // cpp
         pr.lang.java ? '⭐️' : '', // java
@@ -72,7 +83,9 @@ var writeAsync = function(data) {
 
   str = str.replace('{{count}}', count);
 
-  return fs.writeFileAsync('../README.md', str);
+  console.log(chalk.info('Updating') + ' README.md file... ');
+
+  return fs.writeFileAsync(__dirname + '/../README.md', str);
 
 };
 

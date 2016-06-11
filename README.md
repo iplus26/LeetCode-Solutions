@@ -1,6 +1,24 @@
+# Build Your Own Version
+
+I write a tool (check out the `build/` folder) to optimize the process. It will __programmatically__: 
+
+1. Fetch the problem list from LeetCode OJ and save in `build/leetcode.html`
+
+2. Check out the local solutions (Pls save the code as `123. Some Problem/whatever-you-like.js`)
+
+3. Update the README file
+
+Try it: Just clone the repo and run
+
+    npm install && npm run build
+
+Be free to contact to discuss about this simple tool. 
+
+# My Version
+
 This is my version of LeetCode solutions. 
 
-__72__ / 337 questions solved. 
+__72__ / 339 questions solved. 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)
 
 | # | Difficulty | Title | C | C++ | Java| JavaScript |
@@ -342,3 +360,5 @@ __72__ / 337 questions solved.
 |352|😈|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|||||
 |353|😎|[🔒Design Snake Game](https://leetcode.com/problems/design-snake-game/)|||||
 |354|😈|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|||||
+|355|😈|[Design Twitter](https://leetcode.com/problems/design-twitter/)|||||
+|356|😎|[🔒Line Reflection](https://leetcode.com/problems/line-reflection/)|||||
