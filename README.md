@@ -1,6 +1,6 @@
 This is my version of LeetCode solutions. 
 
-__63__ / 337 questions solved. 
+__65__ / 337 questions solved. 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)
 
 | # | Difficulty | Title | C | C++ | Java| JavaScript |
@@ -19,7 +19,7 @@ __63__ / 337 questions solved.
 |12|😎|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|||||
 |13|😄|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|||||
 |14|😄|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)||||⭐️|
-|15|😎|[3Sum](https://leetcode.com/problems/3sum/)|||||
+|15|😎|[3Sum](https://leetcode.com/problems/3sum/)|⭐️||||
 |16|😎|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|||||
 |17|😎|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|||||
 |18|😎|[4Sum](https://leetcode.com/problems/4sum/)|||||
@@ -38,7 +38,7 @@ __63__ / 337 questions solved.
 |31|😎|[Next Permutation](https://leetcode.com/problems/next-permutation/)|||||
 |32|😈|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|||||
 |33|😈|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|||||
-|34|😎|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|||||
+|34|😎|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)||||⭐️|
 |35|😎|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|||||
 |36|😄|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|||||
 |37|😈|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|||||
