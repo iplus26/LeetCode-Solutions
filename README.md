@@ -18,7 +18,7 @@ Be free to contact to discuss about this simple tool.
 
 This is my version of LeetCode solutions. 
 
-__72__ / 339 questions solved. 
+__79__ / 339 questions solved. 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)
 
 | # | Difficulty | Title | C | C++ | Java| JavaScript |
@@ -28,14 +28,14 @@ __72__ / 339 questions solved.
 |3|😎|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|⭐️||||
 |4|😈|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|||||
 |5|😎|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|||||
-|6|😄|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|||||
-|7|😄|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|||||
-|8|😄|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|||||
-|9|😄|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|||||
+|6|😄|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)||⭐️|||
+|7|😄|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|⭐️||||
+|8|😄|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)||||⭐️|
+|9|😄|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|⭐️||||
 |10|😈|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|||||
 |11|😎|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|||||
-|12|😎|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|||||
-|13|😄|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|||||
+|12|😎|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|||⭐️||
+|13|😄|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|⭐️||||
 |14|😄|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)||||⭐️|
 |15|😎|[3Sum](https://leetcode.com/problems/3sum/)|⭐️||||
 |16|😎|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|||||
@@ -177,7 +177,7 @@ __72__ / 339 questions solved.
 |152|😎|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|||||
 |153|😎|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)||||⭐️|
 |154|😈|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|||||
-|155|😄|[Min Stack](https://leetcode.com/problems/min-stack/)|||||
+|155|😄|[Min Stack](https://leetcode.com/problems/min-stack/)||||⭐️|
 |156|😎|[🔒Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|||||
 |157|😄|[🔒Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)|||||
 |158|😈|[🔒Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)|||||

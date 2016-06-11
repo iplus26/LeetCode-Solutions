@@ -18,7 +18,7 @@ var walk = function(data) {
           return content;
         })
         .catch(function(e) {
-          // console.log(e);
+          fs.mkdirAsync(__dirname + '/../' + leftPad(i, 3, 0) + '. ' + pr.title);
         });
     }
 
