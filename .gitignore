@@ -1,3 +1,6 @@
 node_modules/
 build/log*
 build/leetcode.html
+
+# Java
+*.class
