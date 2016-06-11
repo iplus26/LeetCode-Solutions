@@ -1,6 +1,6 @@
 This is my version of LeetCode solutions. 
 
-__60__ / 337 questions solved. 
+__63__ / 337 questions solved. 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)
 
 | # | Difficulty | Title | C | C++ | Java| JavaScript |
@@ -30,8 +30,8 @@ __60__ / 337 questions solved.
 |23|😈|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|||||
 |24|😄|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|||||
 |25|😈|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|||||
-|26|😄|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|||||
-|27|😄|[Remove Element](https://leetcode.com/problems/remove-element/)|||||
+|26|😄|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|⭐️||||
+|27|😄|[Remove Element](https://leetcode.com/problems/remove-element/)|⭐️||||
 |28|😄|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|||||
 |29|😎|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|||||
 |30|😈|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|||||
@@ -191,7 +191,7 @@ __60__ / 337 questions solved.
 |200|😎|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|⭐️||||
 |201|😎|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|||||
 |202|😄|[Happy Number](https://leetcode.com/problems/happy-number/)|⭐️||||
-|203|😄|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|||||
+|203|😄|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)||||⭐️|
 |204|😄|[Count Primes](https://leetcode.com/problems/count-primes/)|⭐️||||
 |205|😄|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|⭐️||||
 |206|😄|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)||||⭐️|
