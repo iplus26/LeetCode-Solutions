@@ -1,6 +1,6 @@
 This is my version of LeetCode solutions. 
 
-__70__ / 337 questions solved. 
+__72__ / 337 questions solved. 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)
 
 | # | Difficulty | Title | C | C++ | Java| JavaScript |
@@ -187,7 +187,7 @@ __70__ / 337 questions solved.
 |190|😄|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)||||⭐️|
 |191|😄|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)||||⭐️|
 |198|😄|[House Robber](https://leetcode.com/problems/house-robber/)|⭐️||||
-|199|😎|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|||||
+|199|😎|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)||||⭐️|
 |200|😎|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|⭐️||||
 |201|😎|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|||||
 |202|😄|[Happy Number](https://leetcode.com/problems/happy-number/)|⭐️||||
@@ -222,7 +222,7 @@ __70__ / 337 questions solved.
 |231|😄|[Power of Two](https://leetcode.com/problems/power-of-two/)||||⭐️|
 |232|😄|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)||||⭐️|
 |233|😈|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)||||⭐️|
-|234|😄|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|||||
+|234|😄|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)||||⭐️|
 |235|😄|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)||||⭐️|
 |236|😎|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|||||
 |237|😄|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)||||⭐️|
