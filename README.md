@@ -1,6 +1,6 @@
 This is my version of LeetCode solutions. 
 
-__51__ / 337 questions solved. 
+__52__ / 337 questions solved. 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)
 
 | # | Difficulty | Title | C | C++ | JavaScript |
@@ -45,7 +45,7 @@ __51__ / 337 questions solved.
 |38|😄|[Count and Say](https://leetcode.com/problems/count-and-say/)|||⭐️|
 |39|😎|[Combination Sum](https://leetcode.com/problems/combination-sum/)||||
 |40|😎|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)||||
-|41|😈|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)||||
+|41|😈|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|||⭐️|
 |42|😈|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)||||
 |43|😎|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)||||
 |44|😈|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)||||
