@@ -18,7 +18,7 @@ Be free to contact to discuss about this simple tool.
 
 This is my version of LeetCode solutions. 
 
-__84__ / 339 questions solved. 
+__87__ / 339 questions solved. 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)
 
 | # | Difficulty | Title | C | C++ | Java| JavaScript |
@@ -158,7 +158,7 @@ __84__ / 339 questions solved.
 |133|😎|[Clone Graph](https://leetcode.com/problems/clone-graph/)|||||
 |134|😎|[Gas Station](https://leetcode.com/problems/gas-station/)|||||
 |135|😈|[Candy](https://leetcode.com/problems/candy/)|||||
-|136|😎|[Single Number](https://leetcode.com/problems/single-number/)|||||
+|136|😎|[Single Number](https://leetcode.com/problems/single-number/)|⭐️||||
 |137|😎|[Single Number II](https://leetcode.com/problems/single-number-ii/)|||||
 |138|😈|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|||||
 |139|😎|[Word Break](https://leetcode.com/problems/word-break/)|||||
@@ -182,12 +182,12 @@ __84__ / 339 questions solved.
 |157|😄|[🔒Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)|||||
 |158|😈|[🔒Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)|||||
 |159|😈|[🔒Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|||||
-|160|😄|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|||||
+|160|😄|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)||||⭐️|
 |161|😎|[🔒One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|||||
 |162|😎|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|||||
 |163|😎|[🔒Missing Ranges](https://leetcode.com/problems/missing-ranges/)|||||
 |164|😈|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|||||
-|165|😄|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|||||
+|165|😄|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)||||⭐️|
 |166|😎|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|||||
 |167|😎|[🔒Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|||||
 |168|😄|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|||||
