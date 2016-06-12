@@ -18,7 +18,7 @@ Be free to contact to discuss about this simple tool.
 
 This is my version of LeetCode solutions. 
 
-__80__ / 339 questions solved. 
+__84__ / 339 questions solved. 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)
 
 | # | Difficulty | Title | C | C++ | Java| JavaScript |
@@ -50,7 +50,7 @@ __80__ / 339 questions solved.
 |25|😈|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|||||
 |26|😄|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|⭐️||||
 |27|😄|[Remove Element](https://leetcode.com/problems/remove-element/)|⭐️||||
-|28|😄|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|||||
+|28|😄|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|⭐️|||⭐️|
 |29|😎|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|||||
 |30|😈|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|||||
 |31|😎|[Next Permutation](https://leetcode.com/problems/next-permutation/)|||||
@@ -72,7 +72,7 @@ __80__ / 339 questions solved.
 |47|😎|[Permutations II](https://leetcode.com/problems/permutations-ii/)|||||
 |48|😎|[Rotate Image](https://leetcode.com/problems/rotate-image/)|||||
 |49|😎|[Group Anagrams](https://leetcode.com/problems/anagrams/)|||||
-|50|😎|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|||||
+|50|😎|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|⭐️||||
 |51|😈|[N-Queens](https://leetcode.com/problems/n-queens/)|||||
 |52|😈|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|||||
 |53|😎|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|||||
@@ -80,7 +80,7 @@ __80__ / 339 questions solved.
 |55|😎|[Jump Game](https://leetcode.com/problems/jump-game/)|||||
 |56|😈|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|||||
 |57|😈|[Insert Interval](https://leetcode.com/problems/insert-interval/)|||||
-|58|😄|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|||||
+|58|😄|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|⭐️||||
 |59|😎|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|||||
 |60|😎|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|||||
 |61|😎|[Rotate List](https://leetcode.com/problems/rotate-list/)|||||
@@ -110,7 +110,7 @@ __80__ / 339 questions solved.
 |85|😈|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|||||
 |86|😎|[Partition List](https://leetcode.com/problems/partition-list/)|||||
 |87|😈|[Scramble String](https://leetcode.com/problems/scramble-string/)|||||
-|88|😄|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|||||
+|88|😄|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||||⭐️|
 |89|😎|[Gray Code](https://leetcode.com/problems/gray-code/)|||||
 |90|😎|[Subsets II](https://leetcode.com/problems/subsets-ii/)|||||
 |91|😎|[Decode Ways](https://leetcode.com/problems/decode-ways/)|||||
