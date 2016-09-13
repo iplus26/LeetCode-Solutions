@@ -18,7 +18,7 @@ Be free to contact to discuss about this simple tool.
 
 This is my version of LeetCode solutions. 
 
-__87__ / 382 questions solved. 
+__88__ / 382 questions solved. 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)
 
 | # | Difficulty | Title | C | C++ | Java| JavaScript |
@@ -190,7 +190,7 @@ __87__ / 382 questions solved.
 |165|😄|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)||||⭐️|
 |166|😎|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|||||
 |167|😎|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|||||
-|168|😄|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|||||
+|168|😄|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)||⭐️||⭐️|
 |169|😄|[Majority Element](https://leetcode.com/problems/majority-element/)|||||
 |170|😄|[🔒Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)|||||
 |171|😄|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|⭐️||||
