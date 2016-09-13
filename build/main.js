@@ -27,11 +27,11 @@ var getLeetCode = function getLeetCode(data) {
       data[key].forEach(function(el, i) {
           var pr = {
             index: el.stat['question_id'],
-            url: LEETCODE_ORIGIN + el.stat['question__title_slug'],
+            url: LEETCODE_ORIGIN + '/problems/' + el.stat['question__title_slug'] + '/',
             title: el.stat['question__title'],
             isLock: el['paid_only'],
             // acRate: $pr.eq(3).text(),
-            diff: ['Easy', 'Medium', 'Hard'][el.difficulty.level + 1],
+            diff: ['Easy', 'Medium', 'Hard'][el.difficulty.level - 1],
           };
 
         problems[pr.index] = pr;
