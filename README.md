@@ -18,7 +18,7 @@ Be free to contact to discuss about this simple tool.
 
 This is my version of LeetCode solutions. 
 
-__87__ / 339 questions solved. 
+__87__ / 382 questions solved. 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)
 
 | # | Difficulty | Title | C | C++ | Java| JavaScript |
@@ -158,7 +158,7 @@ __87__ / 339 questions solved.
 |133|😎|[Clone Graph](https://leetcode.com/problems/clone-graph/)|||||
 |134|😎|[Gas Station](https://leetcode.com/problems/gas-station/)|||||
 |135|😈|[Candy](https://leetcode.com/problems/candy/)|||||
-|136|😎|[Single Number](https://leetcode.com/problems/single-number/)|⭐️||||
+|136|😄|[Single Number](https://leetcode.com/problems/single-number/)|⭐️||||
 |137|😎|[Single Number II](https://leetcode.com/problems/single-number-ii/)|||||
 |138|😈|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|||||
 |139|😎|[Word Break](https://leetcode.com/problems/word-break/)|||||
@@ -189,7 +189,7 @@ __87__ / 339 questions solved.
 |164|😈|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|||||
 |165|😄|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)||||⭐️|
 |166|😎|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|||||
-|167|😎|[🔒Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|||||
+|167|😎|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|||||
 |168|😄|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|||||
 |169|😄|[Majority Element](https://leetcode.com/problems/majority-element/)|||||
 |170|😄|[🔒Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)|||||
@@ -330,12 +330,12 @@ __87__ / 339 questions solved.
 |322|😎|[Coin Change](https://leetcode.com/problems/coin-change/)|||||
 |323|😎|[🔒Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|||||
 |324|😎|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|||||
-|325|😄|[🔒Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|||||
+|325|😎|[🔒Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|||||
 |326|😄|[Power of Three](https://leetcode.com/problems/power-of-three/)||||⭐️|
 |327|😈|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|||||
 |328|😎|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)||||⭐️|
 |329|😈|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|||||
-|330|😎|[Patching Array](https://leetcode.com/problems/patching-array/)|||||
+|330|😈|[Patching Array](https://leetcode.com/problems/patching-array/)|||||
 |331|😎|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)||||⭐️|
 |332|😎|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|||||
 |333|😎|[🔒Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|||||
@@ -360,5 +360,48 @@ __87__ / 339 questions solved.
 |352|😈|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|||||
 |353|😎|[🔒Design Snake Game](https://leetcode.com/problems/design-snake-game/)|||||
 |354|😈|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|||||
-|355|😈|[Design Twitter](https://leetcode.com/problems/design-twitter/)|||||
+|355|😎|[Design Twitter](https://leetcode.com/problems/design-twitter/)|||||
 |356|😎|[🔒Line Reflection](https://leetcode.com/problems/line-reflection/)|||||
+|357|😎|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|||||
+|358|😈|[🔒Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/)|||||
+|359|😄|[🔒Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|||||
+|360|😎|[🔒Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)|||||
+|361|😎|[🔒Bomb Enemy](https://leetcode.com/problems/bomb-enemy/)|||||
+|362|😎|[🔒Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|||||
+|363|😈|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/)|||||
+|364|😎|[🔒Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|||||
+|365|😎|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|||||
+|366|😎|[🔒Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|||||
+|367|😎|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|||||
+|368|😎|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|||||
+|369|😎|[🔒Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)|||||
+|370|😎|[🔒Range Addition](https://leetcode.com/problems/range-addition/)|||||
+|371|😄|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|||||
+|372|😎|[Super Pow](https://leetcode.com/problems/super-pow/)|||||
+|373|😎|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|||||
+|374|😄|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|||||
+|375|😎|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|||||
+|376|😎|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|||||
+|377|😎|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|||||
+|378|😎|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|||||
+|379|😎|[🔒Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)|||||
+|380|😈|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|||||
+|381|😈|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|||||
+|382|😎|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|||||
+|383|😄|[Ransom Note](https://leetcode.com/problems/ransom-note/)|||||
+|384|😎|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|||||
+|385|😎|[Mini Parser](https://leetcode.com/problems/mini-parser/)|||||
+|386|😎|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|||||
+|387|😄|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|||||
+|388|😎|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|||||
+|389|😄|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|||||
+|390|😎|[Elimination Game](https://leetcode.com/problems/elimination-game/)|||||
+|391|😈|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|||||
+|392|😎|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|||||
+|393|😎|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|||||
+|394|😎|[Decode String](https://leetcode.com/problems/decode-string/)|||||
+|395|😎|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|||||
+|396|😄|[Rotate Function](https://leetcode.com/problems/rotate-function/)|||||
+|397|😄|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|||||
+|398|😎|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|||||
+|399|😎|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|||||
