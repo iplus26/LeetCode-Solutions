@@ -18,7 +18,7 @@ Be free to contact to discuss about this simple tool.
 
 This is my version of LeetCode solutions. 
 
-__88__ / 382 questions solved. 
+__90__ / 382 questions solved. 
 (😄 for *Easy*, 😎 for *Medium*, 😈 for *Hard*)
 
 | # | Difficulty | Title | C | C++ | Java| JavaScript |
@@ -135,7 +135,7 @@ __88__ / 382 questions solved.
 |110|😄|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|||||
 |111|😄|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|||||
 |112|😄|[Path Sum](https://leetcode.com/problems/path-sum/)|||||
-|113|😎|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|||||
+|113|😎|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)||||⭐️|
 |114|😎|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)||||⭐️|
 |115|😈|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|||||
 |116|😎|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|||||
@@ -263,7 +263,7 @@ __88__ / 382 questions solved.
 |254|😎|[🔒Factor Combinations](https://leetcode.com/problems/factor-combinations/)|||||
 |255|😎|[🔒Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|||||
 |256|😎|[🔒Paint House](https://leetcode.com/problems/paint-house/)|||||
-|257|😄|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|||||
+|257|😄|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)||||⭐️|
 |258|😄|[Add Digits](https://leetcode.com/problems/add-digits/)||||⭐️|
 |259|😎|[🔒3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|||||
 |260|😎|[Single Number III](https://leetcode.com/problems/single-number-iii/)|||||
